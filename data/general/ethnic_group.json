@@ -1,0 +1,62 @@
+{
+    "01": {
+        "name": "Kinh",
+        "other": "Việt"
+    },
+    "02": {
+        "name": "Tày",
+        "other": "Thổ, Ngạn, Phén, Thù lao, Pa Dí"
+    },
+    "03": {
+        "name": "Thái",
+        "other": "Tày, Tày khao (Thái trắng), Tày Dăm (Thái Đen), Tày Mười Tây Thanh, Màn Thanh (Hang Ông (Tày Mường), Pi Thay, Thổ Đà Bắc"
+    },
+    "04": {
+        "name": "Hoa",
+        "other": "Hán, Triều Châu, Phúc Kiến, Quảng Đông, Hải Nam, Hạ, Xạ Phạng"
+    },
+    "05": {
+        "name": "Khơ-me",
+        "other": "Cur, Cul, Cu, Thổ, Việt gốc Miên, Khơ-me, Krôm"
+    },
+    "06": {
+        "name": "Mường",
+        "other": "Mol, Mual, Mọi, Mọi Bi, Ao Tá, (Ậu Tá)"
+    },
+    "07": {
+        "name": "Nùng",
+        "other": "Xuồng, Giang, Nùng An, Phàn Sinh, Nùng Cháo, Nùng Lòi, Quý Rim, Khèn Lài"
+    },
+    "08": {
+        "name": "HMông",
+        "other": "Mèo, Mẹo, Hoa, Mèo Xanh, Mèo Đỏ, Mèo Đen, Ná Mẻo, Mán Trắng"
+    },
+    "09": {
+        "name": "Dao",
+        "other": "Mán, Động, Trại, Xá, Dìu Miền, Kiềm, Miền, Quần Trắng, Dao Đỏ, Quần Chẹt, Lô Gang, Dao Tiền, Thanh Y, Lan Tẻn, Đại Bản,Tiểu Bản, Cóc Ngáng, Cóc Mùn, Sơn Đầu"
+    },
+    "10": {
+        "name": "Gia-rai",
+        "other": "Giơ-rai, Tơ-buăn, Chơ-rai, Hơ-bau, Hđrung, Chor"
+    },
+    "11": {
+        "name": "Ngái",
+        "other": "Xín, Lê, Đản, Khách Gia"
+    },
+    "12": {
+        "name": "Ê-đê",
+        "other": "Ra-đê, Đê, Kpạ, A-đham, Krung, Ktul, Đliê Ruê, Blô, E-pan, Mđhur, Bih"
+    },
+    "13": {
+        "name": "Ba-na",
+        "other": "Gơ-lar, Tơ-lô, Giơ-lâng (Y-Lăng), Rơ-ngao, Krem, Roh, ConKđe, A-la Công, Kpăng Công, Bơ-nâm"
+    },
+    "14": {
+        "name": "Xơ-đăng",
+        "other": "Xơ-teng, Hđang, Tơ-đra, Mơ-nâm, Ha-lăng, Ca-dông, Kmrâng, Con Lan, Bri-la, Tang"
+    },
+    "15": {
+        "name": "Sán Chay",
+        "other": "Cao Lan-Sán chỉ, Cao Lan, Mán Cao Lan, Hờn Bạn, Sán Chỉ (Sơn Tử)"
+    }
+}
