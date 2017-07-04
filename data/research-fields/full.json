@@ -1,0 +1,2356 @@
+{
+    "vhdata": {
+        "research-fields": {
+            "level1": {
+                "1": {
+                    "code": "1",
+                    "full-code": "1",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "101",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10101",
+                                    "full-name": "",
+                                    "name": "To\u00e1n h\u1ecdc c\u01a1 b\u1ea3n"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10102",
+                                    "full-name": "",
+                                    "name": "To\u00e1n h\u1ecdc \u1ee9ng d\u1ee5ng"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10103",
+                                    "full-name": "Nh\u1eefng v\u1ea5n \u0111\u1ec1 nghi\u00ean c\u1ee9u th\u1ed1ng k\u00ea \u1ee9ng d\u1ee5ng trong t\u1eebng l\u0129nh v\u1ef1c, t\u1eebng ng\u00e0nh c\u1ee5 th\u1ec3 \u0111\u01b0\u1ee3c x\u1ebfp v\u00e0o l\u0129nh v\u1ef1c, ng\u00e0nh t\u01b0\u01a1ng \u1ee9ng",
+                                    "name": "Th\u1ed1ng k\u00ea"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10199",
+                                    "full-name": "",
+                                    "name": "To\u00e1n h\u1ecdc v\u00e0 th\u1ed1ng k\u00ea kh\u00e1c"
+                                }
+                            },
+                            "name": "To\u00e1n h\u1ecdc v\u00e0 th\u1ed1ng k\u00ea",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "102",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10201",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc m\u00e1y t\u00ednh"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10202",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc th\u00f4ng tin"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10203",
+                                    "full-name": "",
+                                    "name": "Sinh tin h\u1ecdc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10299",
+                                    "full-name": "C\u00e1c v\u1ea5n \u0111\u1ec1 ph\u00e1t tri\u1ec3n ph\u1ea7n c\u1ee9ng x\u1ebfp v\u00e0o m\u1ee5c 20206 (Ph\u1ea7n c\u1ee9ng v\u00e0 ki\u1ebfn tr\u00fac m\u00e1y t\u00ednh); C\u00e1c kh\u00eda c\u1ea1nh x\u00e3 h\u1ed9i c\u1ee7a khoa h\u1ecdc t\u00ednh to\u00e1n v\u00e0 th\u00f4ng tin x\u1ebfp v\u00e0o m\u1ee5c 5 - Khoa h\u1ecdc x\u00e3 h\u1ed9i",
+                                    "name": "Khoa h\u1ecdc m\u00e1y t\u00ednh v\u00e0 khoa h\u1ecdc th\u00f4ng tin kh\u00e1c"
+                                }
+                            },
+                            "name": "Khoa h\u1ecdc m\u00e1y t\u00ednh v\u00e0 th\u00f4ng tin",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "103",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10301",
+                                    "full-name": "V\u1eadt l\u00fd c\u00e1c nguy\u00ean t\u1eed v\u00e0 c\u00e1c ph\u00e2n t\u1eed bao g\u1ed3m va ch\u1ea1m, t\u01b0\u01a1ng t\u00e1c b\u1ee9c x\u1ea1, c\u1ed9ng h\u01b0\u1edfng t\u1eeb; hi\u1ec7u \u1ee9ng Moessabauer",
+                                    "name": "V\u1eadt l\u00fd nguy\u00ean t\u1eed; v\u1eadt l\u00fd ph\u00e2n t\u1eed v\u00e0 v\u1eadt l\u00fd h\u00f3a h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10302",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 v\u1eadt l\u00fd ch\u1ea5t r\u1eafn; si\u00eau d\u1eabn",
+                                    "name": "V\u1eadt l\u00fd c\u00e1c ch\u1ea5t c\u00f4 \u0111\u1eb7c"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10303",
+                                    "full-name": "",
+                                    "name": "V\u1eadt l\u00fd h\u1ea1t v\u00e0 tr\u01b0\u1eddng"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "10304",
+                                    "full-name": "",
+                                    "name": "V\u1eadt l\u00fd h\u1ea1t nh\u00e2n"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "10305",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 v\u1eadt l\u00fd b\u1ec1 m\u1eb7t",
+                                    "name": "V\u1eadt l\u00fd plasma v\u00e0 ch\u1ea5t l\u1ecfng"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "10306",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 lade quang h\u1ecdc v\u00e0 lade l\u01b0\u1ee3ng t\u1eed",
+                                    "name": "Quang h\u1ecdc"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "10307",
+                                    "full-name": "",
+                                    "name": "\u00c2m h\u1ecdc"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "10308",
+                                    "full-name": "",
+                                    "name": "Thi\u00ean v\u0103n h\u1ecdc"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "10309",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 v\u1eadt l\u00fd v\u0169 tr\u1ee5",
+                                    "name": "Khoa h\u1ecdc v\u0169 tr\u1ee5"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10399",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc v\u1eadt l\u00fd kh\u00e1c"
+                                }
+                            },
+                            "name": "V\u1eadt l\u00fd",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "104",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10401",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 h\u1eefu c\u01a1"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10402",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 v\u00f4 c\u01a1 v\u00e0 h\u1ea1t nh\u00e2n"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10403",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 l\u00fd"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "10404",
+                                    "full-name": "Polyme",
+                                    "name": "Ho\u00e1 h\u1ecdc cao ph\u00e2n t\u1eed"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "10405",
+                                    "full-name": "Pin kh\u00f4, pin, pin nhi\u00ean li\u1ec7u, \u0103n m\u00f2n kim lo\u1ea1i, \u0111i\u1ec7n ph\u00e2n",
+                                    "name": "\u0110i\u1ec7n h\u00f3a"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "10406",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 keo"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "10407",
+                                    "full-name": "",
+                                    "name": "H\u00f3a ph\u00e2n t\u00edch"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10499",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc ho\u00e1 h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "Ho\u00e1 h\u1ecdc",
+                            "note": ""
+                        },
+                        "05": {
+                            "code": "05",
+                            "full-code": "105",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10501",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba ch\u1ea5t h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10502",
+                                    "full-name": "",
+                                    "name": "Kho\u00e1ng v\u1eadt h\u1ecdc"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10503",
+                                    "full-name": "",
+                                    "name": "C\u1ed5 sinh h\u1ecdc"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "10504",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba v\u1eadt l\u00fd"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "10505",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba h\u00f3a h\u1ecdc"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "10506",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba l\u00fd t\u1ef1 nhi\u00ean"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "10507",
+                                    "full-name": "",
+                                    "name": "N\u00fai l\u1eeda h\u1ecdc"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "10508",
+                                    "full-name": "",
+                                    "name": "Tr\u1eafc \u0111\u1ecba h\u1ecdc v\u00e0 b\u1ea3n \u0111\u1ed3 h\u1ecdc"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "10509",
+                                    "full-name": "C\u00e1c kh\u00eda c\u1ea1nh x\u00e3 h\u1ed9i c\u1ee7a khoa h\u1ecdc m\u00f4i tr\u01b0\u1eddng x\u1ebfp v\u00e0o m\u1ee5c 507",
+                                    "name": "C\u00e1c khoa h\u1ecdc m\u00f4i tr\u01b0\u1eddng"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "10510",
+                                    "full-name": "",
+                                    "name": "Kh\u00ed t\u01b0\u1ee3ng h\u1ecdc v\u00e0 c\u00e1c khoa h\u1ecdc kh\u00ed quy\u1ec3n"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "10511",
+                                    "full-name": "",
+                                    "name": "Kh\u00ed h\u1eadu h\u1ecdc"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "10512",
+                                    "full-name": "",
+                                    "name": "H\u1ea3i d\u01b0\u01a1ng h\u1ecdc"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "10513",
+                                    "full-name": "",
+                                    "name": "Thu\u1ef7 v\u0103n; T\u00e0i nguy\u00ean n\u01b0\u1edbc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10599",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc tr\u00e1i \u0111\u1ea5t v\u00e0 khoa h\u1ecdc m\u00f4i tr\u01b0\u1eddng li\u00ean quan kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00e1c khoa h\u1ecdc tr\u00e1i \u0111\u1ea5t v\u00e0 m\u00f4i tr\u01b0\u1eddng li\u00ean quan",
+                            "note": ""
+                        },
+                        "06": {
+                            "code": "06",
+                            "full-code": "106",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "10601",
+                                    "full-name": "",
+                                    "name": "Sinh h\u1ecdc l\u00fd thuy\u1ebft"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "10602",
+                                    "full-name": "",
+                                    "name": "T\u1ebf b\u00e0o h\u1ecdc, M\u00f4 - ph\u00f4i h\u1ecdc"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "10603",
+                                    "full-name": "",
+                                    "name": "Vi sinh v\u1eadt h\u1ecdc"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "10604",
+                                    "full-name": "",
+                                    "name": "Vi r\u00fat h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "10605",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 sinh; ph\u01b0\u01a1ng ph\u00e1p nghi\u00ean c\u1ee9u ho\u00e1 sinh"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "10606",
+                                    "full-name": "",
+                                    "name": "Sinh h\u1ecdc ph\u00e2n t\u1eed"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "10607",
+                                    "full-name": "",
+                                    "name": "N\u1ea5m h\u1ecdc"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "10608",
+                                    "full-name": "",
+                                    "name": "L\u00fd sinh"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "10609",
+                                    "full-name": "",
+                                    "name": "Di truy\u1ec1n h\u1ecdc"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "10610",
+                                    "full-name": "",
+                                    "name": "Sinh h\u1ecdc sinh s\u1ea3n"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "10611",
+                                    "full-name": "",
+                                    "name": "Th\u1ef1c v\u1eadt h\u1ecdc"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "10612",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ed9ng v\u1eadt h\u1ecdc"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "10613",
+                                    "full-name": "",
+                                    "name": "Sinh h\u1ecdc bi\u1ec3n v\u00e0 n\u01b0\u1edbc ng\u1ecdt"
+                                },
+                                "14": {
+                                    "code": "14",
+                                    "full-code": "10614",
+                                    "full-name": "",
+                                    "name": "Sinh th\u00e1i h\u1ecdc"
+                                },
+                                "15": {
+                                    "code": "15",
+                                    "full-code": "10615",
+                                    "full-name": "",
+                                    "name": "\u0110a d\u1ea1ng sinh h\u1ecdc"
+                                },
+                                "16": {
+                                    "code": "16",
+                                    "full-code": "10616",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "10699",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc sinh h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "Sinh h\u1ecdc",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "199",
+                            "level3": {},
+                            "name": "Khoa h\u1ecdc t\u1ef1 nhi\u00ean kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc t\u1ef1 nhi\u00ean",
+                    "note": ""
+                },
+                "2": {
+                    "code": "2",
+                    "full-code": "2",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "201",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20101",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ki\u1ebfn tr\u00fac"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20102",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt x\u00e2y d\u1ef1ng"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20103",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt k\u1ebft c\u1ea5u v\u00e0 \u0111\u00f4 th\u1ecb"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20104",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt giao th\u00f4ng v\u1eadn t\u1ea3i"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20105",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt thu\u1ef7 l\u1ee3i"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20106",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt \u0111\u1ecba ch\u1ea5t c\u00f4ng tr\u00ecnh"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20199",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt d\u00e2n d\u1ee5ng kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt d\u00e2n d\u1ee5ng ",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "202",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20201",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt \u0111i\u1ec7n v\u00e0 \u0111i\u1ec7n t\u1eed"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20202",
+                                    "full-name": "",
+                                    "name": "Ng\u01b0\u1eddi m\u00e1y v\u00e0 \u0111i\u1ec1u khi\u1ec3n t\u1ef1 \u0111\u1ed9ng"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20203",
+                                    "full-name": "",
+                                    "name": "T\u1ef1 \u0111\u1ed9ng ho\u00e1 (CAD/CAM, v.v..) v\u00e0 c\u00e1c h\u1ec7 th\u1ed1ng \u0111i\u1ec3u khi\u1ec3n, gi\u00e1m s\u00e1t; c\u00f4ng ngh\u1ec7 \u0111i\u1ec1u khi\u1ec3n s\u1ed1 b\u1eb1ng m\u00e1y t\u00ednh (CNC),.. "
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20204",
+                                    "full-name": "",
+                                    "name": "C\u00e1c h\u1ec7 th\u1ed1ng v\u00e0 k\u1ef9 thu\u1eadt truy\u1ec1n th\u00f4ng"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20205",
+                                    "full-name": "",
+                                    "name": "Vi\u1ec5n th\u00f4ng"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20206",
+                                    "full-name": "",
+                                    "name": "Ph\u1ea7n c\u1ee9ng v\u00e0 ki\u1ebfn tr\u00fac m\u00e1y t\u00ednh"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "20207",
+                                    "full-name": "",
+                                    "name": "C\u01a1 \u0111i\u1ec7n t\u1eed; h\u1ec7 vi c\u01a1 \u0111i\u1ec7n t\u1eed (MEMS),.."
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20299",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt \u0111i\u1ec7n, k\u1ef9 thu\u1eadt \u0111i\u1ec7n t\u1eed, k\u1ef9 thu\u1eadt th\u00f4ng tin kh\u00f4ng x\u1ebfp v\u00e0o m\u1ee5c n\u00e0o kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt \u0111i\u1ec7n, k\u1ef9 thu\u1eadt \u0111i\u1ec7n t\u1eed, k\u1ef9 thu\u1eadt th\u00f4ng tin",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "203",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20301",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed n\u00f3i chung"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20302",
+                                    "full-name": "Ch\u1ebf t\u1ea1o m\u00e1y t\u1eebng ng\u00e0nh x\u1ebfp v\u00e0o c\u00e1c ng\u00e0nh c\u1ee5 th\u1ec3",
+                                    "name": "Ch\u1ebf t\u1ea1o m\u00e1y n\u00f3i chung "
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20303",
+                                    "full-name": "",
+                                    "name": "Ch\u1ebf t\u1ea1o m\u00e1y c\u00f4ng c\u1ee5"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20304",
+                                    "full-name": "",
+                                    "name": "Ch\u1ebf t\u1ea1o m\u00e1y \u0111\u1ed9ng l\u1ef1c"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20305",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 c\u01a1 kh\u00ed b\u1ea3o qu\u1ea3n ch\u1ebf bi\u1ebfn, c\u01a1 kh\u00ed l\u00e2m nghi\u1ec7p, thu\u1ef7 s\u1ea3n",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed v\u00e0 ch\u1ebf t\u1ea1o m\u00e1y n\u00f4ng nghi\u1ec7p"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20306",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed v\u00e0 ch\u1ebf t\u1ea1o m\u00e1y thu\u1ef7 l\u1ee3i"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "20307",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed v\u00e0 ch\u1ebf t\u1ea1o \u00f4t\u00f4 v\u00e0 giao th\u00f4ng"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "20308",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 h\u00e0ng kh\u00f4ng, v\u0169 tr\u1ee5"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "20309",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 \u00e2m thanh"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "20310",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed  v\u00e0 ch\u1ebf t\u1ea1o m\u00e1y x\u00e2y d\u1ef1ng"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "20311",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed t\u00e0u thu\u1ef7"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "20312",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed v\u00e0 ch\u1ebf t\u1ea1o thi\u1ebft b\u1ecb khai kho\u00e1ng"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "20313",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed v\u00e0 ch\u1ebf t\u1ea1o thi\u1ebft b\u1ecb n\u0103ng l\u01b0\u1ee3ng"
+                                },
+                                "14": {
+                                    "code": "14",
+                                    "full-code": "20314",
+                                    "full-name": "V\u1eadt l\u00fd h\u1ea1t nh\u00e2n x\u1ebfp v\u00e0o m\u1ee5c 10304",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 li\u00ean quan \u0111\u1ebfn h\u1ea1t nh\u00e2n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20399",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed, ch\u1ebf t\u1ea1o m\u00e1y kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed, ch\u1ebf t\u1ea1o m\u00e1y",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "204",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20401",
+                                    "full-name": "",
+                                    "name": "S\u1ea3n xu\u1ea5t h\u00f3a h\u1ecdc c\u00f4ng nghi\u1ec7p n\u00f3i chung (nh\u00e0 m\u00e1y, s\u1ea3n ph\u1ea9m)"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20402",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt qu\u00e1 tr\u00ecnh h\u00f3a h\u1ecdc n\u00f3i chung"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20403",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ho\u00e1 d\u01b0\u1ee3c"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20404",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ho\u00e1 v\u00f4 c\u01a1"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20405",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ho\u00e1 h\u1eefu c\u01a1"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20406",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ho\u00e1 d\u1ea7u"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20499",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt h\u00f3a h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt h\u00f3a h\u1ecdc",
+                            "note": ""
+                        },
+                        "05": {
+                            "code": "05",
+                            "full-code": "205",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20501",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt nhi\u1ec7t trong luy\u1ec7n kim"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20502",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 s\u1ea3n xu\u1ea5t kim lo\u1ea1i v\u00e0 h\u1ee3p kim \u0111en"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20503",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 s\u1ea3n xu\u1ea5t kim lo\u1ea1i v\u00e0 h\u1ee3p kim m\u00e0u"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20504",
+                                    "full-name": "",
+                                    "name": "Luy\u1ec7n kim b\u1ed9t"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20505",
+                                    "full-name": "",
+                                    "name": "C\u00e1n kim lo\u1ea1i; k\u00e9o kim lo\u1ea1i; s\u1ea3n xu\u1ea5t s\u1ea3n ph\u1ea9m kim lo\u1ea1i; s\u1ea3n xu\u1ea5t \u1ed1ng kim lo\u1ea1i, v.v.. "
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20506",
+                                    "full-name": "",
+                                    "name": "Luy\u1ec7n c\u00e1c ch\u1ea5t b\u00e1n d\u1eabn"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "20507",
+                                    "full-name": "",
+                                    "name": "V\u1eadt li\u1ec7u x\u00e2y d\u1ef1ng"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "20508",
+                                    "full-name": "",
+                                    "name": "V\u1eadt li\u1ec7u \u0111i\u1ec7n t\u1eed"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "20509",
+                                    "full-name": "",
+                                    "name": "V\u1eadt li\u1ec7u kim lo\u1ea1i"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "20510",
+                                    "full-name": "",
+                                    "name": "G\u1ed1m"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "20511",
+                                    "full-name": "",
+                                    "name": "M\u00e0ng m\u1ecfng, v\u1eadt li\u1ec7u s\u01a1n, v\u1eadt li\u1ec7u ph\u1ee7"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "20512",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 plastic gia c\u01b0\u1eddng, g\u1ed1m kim lo\u1ea1i (cermet), c\u00e1c v\u1eadt li\u1ec7u s\u1ee3i t\u1ed5ng h\u1ee3p v\u00e0 t\u1ef1 nhi\u00ean ph\u1ed1i h\u1ee3p;\u2026",
+                                    "name": "V\u1eadt li\u1ec7u composite"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "20513",
+                                    "full-name": "",
+                                    "name": "G\u1ed7, gi\u1ea5y, b\u1ed9t gi\u1ea5y"
+                                },
+                                "14": {
+                                    "code": "14",
+                                    "full-code": "20514",
+                                    "full-name": "",
+                                    "name": "V\u1ea3i, g\u1ed3m c\u1ea3 s\u1ee3i, m\u00e0u v\u00e0 thu\u1ed1c nhu\u1ed9m t\u1ed5ng h\u1ee3p "
+                                },
+                                "15": {
+                                    "code": "15",
+                                    "full-code": "20515",
+                                    "full-name": "",
+                                    "name": "V\u1eadt li\u1ec7u ti\u00ean ti\u1ebfn"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20599",
+                                    "full-name": "V\u1eadt li\u1ec7u k\u00edch th\u01b0\u1edbc nano x\u1ebfp v\u00e0o m\u1ee5c 21001 - V\u1eadt li\u1ec7u nano; V\u1eadt li\u1ec7u sinh h\u1ecdc \u0111\u01b0\u1ee3c x\u1ebfp v\u00e0o m\u1ee5c 209- c\u00f4ng ngh\u1ec7 sinh h\u1ecdc c\u00f4ng nghi\u1ec7p",
+                                    "name": "K\u1ef9 thu\u1eadt v\u1eadt li\u1ec7u v\u00e0 luy\u1ec7n kim kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt v\u1eadt li\u1ec7u v\u00e0 luy\u1ec7n kim",
+                            "note": ""
+                        },
+                        "06": {
+                            "code": "06",
+                            "full-code": "206",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20601",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt v\u00e0 thi\u1ebft b\u1ecb y h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20602",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ph\u00e2n t\u00edch m\u1eabu b\u1ec7nh ph\u1ea9m"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20603",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ph\u00e2n t\u00edch m\u1eabu thu\u1ed1c"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20604",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt ch\u1ea9n \u0111o\u00e1n b\u1ec7nh "
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20699",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt y h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt y h\u1ecdc",
+                            "note": ""
+                        },
+                        "07": {
+                            "code": "07",
+                            "full-code": "207",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20701",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt m\u00f4i tr\u01b0\u1eddng v\u00e0 \u0111\u1ecba ch\u1ea5t, \u0111\u1ecba k\u1ef9 thu\u1eadt"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20702",
+                                    "full-name": "Ch\u1ebf bi\u1ec5n d\u1ea7u kh\u00ed x\u1ebfp v\u00e0o m\u1ee5c 20405",
+                                    "name": "K\u1ef9 thu\u1eadt d\u1ea7u kh\u00ed (d\u1ea7u m\u1ecf, kh\u00ed \u0111\u1ed1t)"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20703",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt n\u0103ng l\u01b0\u1ee3ng v\u00e0 nhi\u00ean li\u1ec7u kh\u00f4ng ph\u1ea3i d\u1ea7u kh\u00ed"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "20704",
+                                    "full-name": "",
+                                    "name": "Vi\u1ec5n th\u00e1m"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "20705",
+                                    "full-name": "",
+                                    "name": "Khai th\u00e1c m\u1ecf v\u00e0 x\u1eed l\u00fd kho\u00e1ng ch\u1ea5t"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "20706",
+                                    "full-name": "K\u1ef9 thu\u1eadt c\u01a1 kh\u00ed t\u00e0u thu\u1ef7 x\u1ebfp v\u00e0o 20311",
+                                    "name": "K\u1ef9 thu\u1eadt h\u00e0ng h\u1ea3i, \u0111\u00f3ng t\u00e0u bi\u1ec3n"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "20707",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt \u0111\u1ea1i d\u01b0\u01a1ng"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "20708",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt b\u1edd bi\u1ec3n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20799",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt m\u00f4i tr\u01b0\u1eddng kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt m\u00f4i tr\u01b0\u1eddng",
+                            "note": ""
+                        },
+                        "08": {
+                            "code": "08",
+                            "full-code": "208",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20801",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc m\u00f4i tr\u01b0\u1eddng n\u00f3i chung"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20802",
+                                    "full-name": "",
+                                    "name": "X\u1eed l\u00fd m\u00f4i tr\u01b0\u1eddng b\u1eb1ng ph\u01b0\u01a1ng ph\u00e1p sinh h\u1ecdc; c\u00e1c c\u00f4ng ngh\u1ec7 sinh h\u1ecdc ch\u1ea9n \u0111o\u00e1n (chip ADN v\u00e0 thi\u1ebft b\u1ecb c\u1ea3m bi\u1ebfn sinh h\u1ecdc)"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "20803",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ea1o \u0111\u1ee9c h\u1ecdc trong c\u00f4ng ngh\u1ec7 sinh h\u1ecdc m\u00f4i tr\u01b0\u1eddng"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20899",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc m\u00f4i tr\u01b0\u1eddng kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc m\u00f4i tr\u01b0\u1eddng",
+                            "note": ""
+                        },
+                        "09": {
+                            "code": "09",
+                            "full-code": "209",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "20901",
+                                    "full-name": "",
+                                    "name": "C\u00e1c c\u00f4ng ngh\u1ec7 x\u1eed l\u00fd sinh h\u1ecdc (c\u00e1c qu\u00e1 tr\u00ecnh c\u00f4ng nghi\u1ec7p d\u1ef1a v\u00e0o c\u00e1c t\u00e1c nh\u00e2n sinh h\u1ecdc \u0111\u1ec3 v\u1eadn h\u00e0nh quy tr\u00ecnh), x\u00fac t\u00e1c sinh h\u1ecdc; l\u00ean men"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "20902",
+                                    "full-name": "",
+                                    "name": "C\u00e1c c\u00f4ng ngh\u1ec7 s\u1ea3n ph\u1ea9m sinh h\u1ecdc (c\u00e1c s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c ch\u1ebf t\u1ea1o s\u1eed d\u1ee5ng v\u1eadt li\u1ec7u sinh h\u1ecdc l\u00e0m nguy\u00ean li\u1ec7u), v\u1eadt li\u1ec7u sinh h\u1ecdc, ch\u1ea5t d\u1ebbo sinh h\u1ecdc, nhi\u00ean li\u1ec7u sinh h\u1ecdc, c\u00e1c h\u00f3a ch\u1ea5t \u0111\u01b0\u1ee3c chi\u1ebft t\u00e1ch t\u1eeb sinh h\u1ecdc, c\u00e1c v\u1eadt li\u1ec7u m\u1edbi c\u00f3 ngu\u1ed3n g\u1ed1c sinh h\u1ecdc."
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "20999",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc c\u00f4ng nghi\u1ec7p kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc c\u00f4ng nghi\u1ec7p",
+                            "note": ""
+                        },
+                        "10": {
+                            "code": "10",
+                            "full-code": "210",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "21001",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1eadt li\u1ec7u nano (s\u1ea3n xu\u1ea5t v\u00e0 c\u00e1c t\u00ednh ch\u1ea5t)"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "21002",
+                                    "full-name": "V\u1eadt li\u1ec7u sinh h\u1ecdc k\u00edch th\u01b0\u1edbc kh\u00f4ng ph\u1ea3i nano  \u0111\u01b0\u1ee3c x\u1ebfp v\u00e0o 209",
+                                    "name": "C\u00e1c quy tr\u00ecnh nano (c\u00e1c \u1ee9ng d\u1ee5ng \u1edf c\u1ea5p nano)"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "21099",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 nano kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00f4ng ngh\u1ec7 nano",
+                            "note": ""
+                        },
+                        "11": {
+                            "code": "11",
+                            "full-code": "211",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "21101",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt th\u1ef1c ph\u1ea9m"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "21102",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt \u0111\u1ed3 u\u1ed1ng"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "21199",
+                                    "full-name": "",
+                                    "name": "K\u1ef9 thu\u1eadt th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng kh\u00e1c"
+                                }
+                            },
+                            "name": "K\u1ef9 thu\u1eadt th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "299",
+                            "level3": {},
+                            "name": "K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc k\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7",
+                    "note": ""
+                },
+                "3": {
+                    "code": "3",
+                    "full-code": "3",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "301",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "30101",
+                                    "full-name": "Gi\u1ea3i ph\u1eabu v\u00e0 h\u00ecnh th\u00e1i th\u1ef1c v\u1eadt x\u1ebfp v\u00e0o 106 - Sinh h\u1ecdc",
+                                    "name": "Gi\u1ea3i ph\u1eabu h\u1ecdc v\u00e0 h\u00ecnh th\u00e1i h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "30102",
+                                    "full-name": "",
+                                    "name": "Di truy\u1ec1n h\u1ecdc ng\u01b0\u1eddi"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "30103",
+                                    "full-name": "",
+                                    "name": "Mi\u1ec5n d\u1ecbch h\u1ecdc"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "30104",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 T\u00e2m sinh l\u00fd h\u1ecdc",
+                                    "name": "Th\u1ea7n kinh h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "30105",
+                                    "full-name": "",
+                                    "name": "Sinh l\u00fd h\u1ecdc y h\u1ecdc"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "30106",
+                                    "full-name": "",
+                                    "name": "M\u00f4 h\u1ecdc"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "30107",
+                                    "full-name": "",
+                                    "name": "H\u00f3a h\u1ecdc l\u00e2m s\u00e0ng v\u00e0 sinh h\u00f3a y h\u1ecdc"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "30108",
+                                    "full-name": "",
+                                    "name": "Vi sinh v\u1eadt h\u1ecdc y h\u1ecdc"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "30109",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh h\u1ecdc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "30199",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc c\u01a1 s\u1edf kh\u00e1c"
+                                }
+                            },
+                            "name": "Y h\u1ecdc c\u01a1 s\u1edf",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "302",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "30201",
+                                    "full-name": "",
+                                    "name": "Nam h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "30202",
+                                    "full-name": "",
+                                    "name": "S\u1ea3n khoa v\u00e0 ph\u1ee5 khoa"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "30203",
+                                    "full-name": "",
+                                    "name": "Nhi khoa"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "30204",
+                                    "full-name": "",
+                                    "name": "H\u1ec7 tim m\u1ea1ch"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "30205",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh h\u1ec7 m\u1ea1ch ngo\u1ea1i bi\u00ean"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "30206",
+                                    "full-name": "",
+                                    "name": "Huy\u1ebft h\u1ecdc v\u00e0 truy\u1ec1n m\u00e1u"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "30207",
+                                    "full-name": "",
+                                    "name": "H\u1ec7 h\u00f4 h\u1ea5p v\u00e0 c\u00e1c b\u1ec7nh li\u00ean quan"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "30208",
+                                    "full-name": "",
+                                    "name": "\u0110i\u1ec1u tr\u1ecb t\u00edch c\u1ef1c v\u00e0 h\u1ed3i s\u1ee9c c\u1ea5p c\u1ee9u"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "30209",
+                                    "full-name": "",
+                                    "name": "G\u00e2y m\u00ea"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "30210",
+                                    "full-name": "",
+                                    "name": "Ch\u1ea5n th\u01b0\u01a1ng, Ch\u1ec9nh h\u00ecnh"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "30211",
+                                    "full-name": "",
+                                    "name": "Ngo\u1ea1i khoa (Ph\u1eabu thu\u1eadt)"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "30212",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc h\u1ea1t nh\u00e2n v\u00e0 ph\u00f3ng x\u1ea1; ch\u1ee5p \u1ea3nh y h\u1ecdc"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "30213",
+                                    "full-name": "",
+                                    "name": "Gh\u00e9p m\u00f4, t\u1ea1ng"
+                                },
+                                "14": {
+                                    "code": "14",
+                                    "full-code": "30214",
+                                    "full-name": "",
+                                    "name": "Nha khoa v\u00e0 ph\u1eabu thu\u1eadt mi\u1ec7ng"
+                                },
+                                "15": {
+                                    "code": "15",
+                                    "full-code": "30215",
+                                    "full-name": "",
+                                    "name": "Da li\u1ec5u, Hoa li\u1ec5u"
+                                },
+                                "16": {
+                                    "code": "16",
+                                    "full-code": "30216",
+                                    "full-name": "",
+                                    "name": "D\u1ecb \u1ee9ng"
+                                },
+                                "17": {
+                                    "code": "17",
+                                    "full-code": "30217",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh v\u1ec1 kh\u1edbp"
+                                },
+                                "18": {
+                                    "code": "18",
+                                    "full-code": "30218",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 \u0111\u00e1i th\u00e1o \u0111\u01b0\u1eddng,  r\u1ed1i lo\u1ea1n hoocmon",
+                                    "name": "N\u1ed9i ti\u1ebft v\u00e0 chuy\u1ec3n ho\u00e1"
+                                },
+                                "19": {
+                                    "code": "19",
+                                    "full-code": "30219",
+                                    "full-name": "",
+                                    "name": "Ti\u00eau ho\u00e1 v\u00e0 gan m\u1eadt h\u1ecdc"
+                                },
+                                "20": {
+                                    "code": "20",
+                                    "full-code": "30220",
+                                    "full-name": "",
+                                    "name": "Ni\u1ec7u h\u1ecdc v\u00e0 th\u1eadn h\u1ecdc"
+                                },
+                                "21": {
+                                    "code": "21",
+                                    "full-code": "30221",
+                                    "full-name": "",
+                                    "name": "Ung th\u01b0 h\u1ecdc v\u00e0 ph\u00e1t sinh ung th\u01b0"
+                                },
+                                "22": {
+                                    "code": "22",
+                                    "full-code": "30222",
+                                    "full-name": "",
+                                    "name": "Nh\u00e3n khoa. B\u1ec7nh m\u1eaft"
+                                },
+                                "23": {
+                                    "code": "23",
+                                    "full-code": "30223",
+                                    "full-name": "",
+                                    "name": "Tai m\u0169i h\u1ecdng"
+                                },
+                                "24": {
+                                    "code": "24",
+                                    "full-code": "30224",
+                                    "full-name": "",
+                                    "name": "T\u00e2m th\u1ea7n h\u1ecdc"
+                                },
+                                "25": {
+                                    "code": "25",
+                                    "full-code": "30225",
+                                    "full-name": "",
+                                    "name": "Th\u1ea7n kinh h\u1ecdc l\u00e2m s\u00e0ng"
+                                },
+                                "26": {
+                                    "code": "26",
+                                    "full-code": "30226",
+                                    "full-name": "",
+                                    "name": "L\u00e3o khoa, B\u1ec7nh ng\u01b0\u1eddi gi\u00e0"
+                                },
+                                "27": {
+                                    "code": "27",
+                                    "full-code": "30227",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc th\u1ea9m m\u1ef9, Ph\u1eabu thu\u1eadt th\u1ea9m m\u1ef9"
+                                },
+                                "28": {
+                                    "code": "28",
+                                    "full-code": "30228",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc t\u1ed5ng h\u1ee3p v\u00e0 n\u1ed9i khoa "
+                                },
+                                "29": {
+                                    "code": "29",
+                                    "full-code": "30229",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc b\u1ed5 tr\u1ee3 v\u00e0 k\u1ebft h\u1ee3p"
+                                },
+                                "30": {
+                                    "code": "30",
+                                    "full-code": "30230",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc th\u1ec3 thao, th\u1ec3 d\u1ee5c"
+                                },
+                                "31": {
+                                    "code": "31",
+                                    "full-code": "30231",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc d\u00e2n t\u1ed9c; y h\u1ecdc c\u1ed5 truy\u1ec1n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "30299",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc l\u00e2m s\u00e0ng kh\u00e1c"
+                                }
+                            },
+                            "name": "Y h\u1ecdc l\u00e2m s\u00e0ng",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "303",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "30301",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 qu\u1ea3n tr\u1ecb b\u1ec7nh vi\u1ec7n, t\u00e0i ch\u00ednh y t\u1ebf,..",
+                                    "name": "Khoa h\u1ecdc v\u1ec1 ch\u0103m s\u00f3c s\u1ee9c kho\u1ebb v\u00e0 d\u1ecbch v\u1ee5 y t\u1ebf"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "30302",
+                                    "full-name": "",
+                                    "name": "Ch\u00ednh s\u00e1ch v\u00e0 d\u1ecbch v\u1ee5 y t\u1ebf"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "30303",
+                                    "full-name": "",
+                                    "name": "\u0110i\u1ec1u d\u01b0\u1ee1ng"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "30304",
+                                    "full-name": "",
+                                    "name": "Dinh d\u01b0\u1ee1ng; Khoa h\u1ecdc v\u1ec1 \u0103n ki\u00eang"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "30305",
+                                    "full-name": "",
+                                    "name": "Y t\u1ebf m\u00f4i tr\u01b0\u1eddng v\u00e0 c\u00f4ng c\u1ed9ng"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "30306",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc nhi\u1ec7t \u0111\u1edbi"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "30307",
+                                    "full-name": "",
+                                    "name": "K\u00fd sinh tr\u00f9ng h\u1ecdc"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "30308",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh truy\u1ec1n nhi\u1ec5m"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "30309",
+                                    "full-name": "",
+                                    "name": "D\u1ecbch t\u1ec5 h\u1ecdc"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "30310",
+                                    "full-name": "",
+                                    "name": "S\u1ee9c kho\u1ebb ngh\u1ec1 nghi\u1ec7p; t\u00e2m l\u00fd ung th\u01b0 h\u1ecdc, Hi\u1ec7u qu\u1ea3 ch\u00ednh s\u00e1ch v\u00e0 x\u00e3 h\u1ed9i c\u1ee7a nghi\u00ean c\u1ee9u y sinh h\u1ecdc "
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "30312",
+                                    "full-name": "",
+                                    "name": "S\u1ee9c kho\u1ebb sinh s\u1ea3n"
+                                },
+                                "13": {
+                                    "code": "13",
+                                    "full-code": "30313",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ea1o \u0111\u1ee9c h\u1ecdc trong y h\u1ecdc"
+                                },
+                                "14": {
+                                    "code": "14",
+                                    "full-code": "30314",
+                                    "full-name": "",
+                                    "name": "L\u1ea1m d\u1ee5ng thu\u1ed1c; Nghi\u1ec7n v\u00e0 cai nghi\u1ec7n."
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "30399",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec1 y t\u1ebf kh\u00e1c"
+                                }
+                            },
+                            "name": "Y t\u1ebf",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "304",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "30401",
+                                    "full-name": "",
+                                    "name": "D\u01b0\u1ee3c l\u00fd h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "30402",
+                                    "full-name": "",
+                                    "name": "D\u01b0\u1ee3c h\u1ecdc l\u00e2m s\u00e0ng v\u00e0 \u0111i\u1ec1u tr\u1ecb"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "30403",
+                                    "full-name": "",
+                                    "name": "D\u01b0\u1ee3c li\u1ec7u h\u1ecdc; C\u00e2y thu\u1ed1c; Con thu\u1ed1c; Thu\u1ed1c Nam, thu\u1ed1c d\u00e2n t\u1ed9c"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "30404",
+                                    "full-name": "",
+                                    "name": "Ho\u00e1 d\u01b0\u1ee3c h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "30405",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 \u0111\u1ed9c ch\u1ea5t h\u1ecdc l\u00e2m s\u00e0ng",
+                                    "name": "Ki\u1ec3m nghi\u1ec7m thu\u1ed1c v\u00e0 \u0110\u1ed9c ch\u1ea5t h\u1ecdc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "30499",
+                                    "full-name": "",
+                                    "name": "D\u01b0\u1ee3c h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "D\u01b0\u1ee3c h\u1ecdc",
+                            "note": ""
+                        },
+                        "05": {
+                            "code": "05",
+                            "full-code": "305",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "30501",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc li\u00ean quan \u0111\u1ebfn y h\u1ecdc, y t\u1ebf"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "30502",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc li\u00ean quan \u0111\u1ebfn thao t\u00e1c v\u1edbi c\u00e1c t\u1ebf b\u00e0o, m\u00f4, c\u01a1 quan hay to\u00e0n b\u1ed9 sinh v\u1eadt (h\u1ed7 tr\u1ee3 sinh s\u1ea3n); c\u00f4ng ngh\u1ec7 t\u1ebf b\u00e0o g\u1ed1c"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "30503",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 ch\u1ea9n \u0111o\u00e1n gen, c\u00e1c can thi\u1ec7p \u0111i\u1ec1u tr\u1ecb tr\u00ean c\u01a1 s\u1edf gen (d\u01b0\u1ee3c ph\u1ea9m tr\u00ean c\u01a1 s\u1edf gen (pharmacogenomics) c\u00e1c li\u1ec7u ph\u00e1p \u0111i\u1ec1u tr\u1ecb tr\u00ean c\u1edf s\u1edf gen),... ",
+                                    "name": "C\u00f4ng ngh\u1ec7 li\u00ean quan \u0111\u1ebfn x\u00e1c \u0111\u1ecbnh ch\u1ee9c n\u0103ng c\u1ee7a ADN, protein, enzym v\u00e0 t\u00e1c \u0111\u1ed9ng c\u1ee7a ch\u00fang t\u1edbi vi\u1ec7c ph\u00e1t b\u1ec7nh; \u0111\u1ea3m b\u1ea3o s\u1ee9c kh\u1ecfe"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "30504",
+                                    "full-name": "",
+                                    "name": "V\u1eadt li\u1ec7u sinh h\u1ecdc li\u00ean quan \u0111\u1ebfn c\u1ea5y gh\u00e9p trong y h\u1ecdc, thi\u1ebft b\u1ecb, c\u1ea3m bi\u1ebfn y h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "30505",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ea1o \u0111\u1ee9c h\u1ecdc trong c\u00f4ng ngh\u1ec7 sinh h\u1ecdc y h\u1ecdc "
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "30599",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc y h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc trong y h\u1ecdc",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "399",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "39901",
+                                    "full-name": "",
+                                    "name": "Ph\u00e1p y"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "39902",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc th\u1ea3m ho\u1ea1"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "39903",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc h\u00e0ng kh\u00f4ng, v\u0169 tr\u1ee5"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "39904",
+                                    "full-name": "",
+                                    "name": "Qu\u00e2n y; Y t\u1ebf qu\u1ed1c ph\u00f2ng"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "39999",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc, y t\u1ebf v\u00e0 d\u01b0\u1ee3c ch\u01b0a x\u1ebfp v\u00e0o m\u1ee5c n\u00e0o kh\u00e1c"
+                                }
+                            },
+                            "name": "Khoa h\u1ecdc y, d\u01b0\u1ee3c kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc y, d\u01b0\u1ee3c",
+                    "note": ""
+                },
+                "4": {
+                    "code": "4",
+                    "full-code": "4",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "401",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40101",
+                                    "full-name": "",
+                                    "name": "N\u00f4ng ho\u00e1"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40102",
+                                    "full-name": "",
+                                    "name": "Th\u1ed5 nh\u01b0\u1ee1ng h\u1ecdc"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40103",
+                                    "full-name": "",
+                                    "name": "C\u00e2y l\u01b0\u01a1ng th\u1ef1c v\u00e0 c\u00e2y th\u1ef1c ph\u1ea9m"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40104",
+                                    "full-name": "",
+                                    "name": "C\u00e2y rau, c\u00e2y hoa v\u00e0 c\u00e2y \u0103n qu\u1ea3"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40105",
+                                    "full-name": "",
+                                    "name": "C\u00e2y c\u00f4ng nghi\u1ec7p v\u00e0 c\u00e2y thu\u1ed1c"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "40106",
+                                    "full-name": "",
+                                    "name": "B\u1ea3o v\u1ec7 th\u1ef1c v\u1eadt"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "40107",
+                                    "full-name": "",
+                                    "name": "B\u1ea3o qu\u1ea3n v\u00e0 ch\u1ebf bi\u1ebfn n\u00f4ng s\u1ea3n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40199",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc c\u00f4ng ngh\u1ec7 tr\u1ed3ng tr\u1ecdt kh\u00e1c"
+                                }
+                            },
+                            "name": "Tr\u1ed3ng tr\u1ecdt",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "402",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40201",
+                                    "full-name": "",
+                                    "name": "Sinh l\u00fd v\u00e0 ho\u00e1 sinh \u0111\u1ed9ng v\u1eadt nu\u00f4i"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40202",
+                                    "full-name": "",
+                                    "name": "Di truy\u1ec1n v\u00e0 nh\u00e2n gi\u1ed1ng \u0111\u1ed9ng v\u1eadt nu\u00f4i"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40203",
+                                    "full-name": "",
+                                    "name": "Th\u1ee9c \u0103n v\u00e0 dinh d\u01b0\u1ee1ng cho \u0111\u1ed9ng v\u1eadt nu\u00f4i"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40204",
+                                    "full-name": "",
+                                    "name": "Nu\u00f4i d\u01b0\u1ee1ng \u0111\u1ed9ng v\u1eadt nu\u00f4i "
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40205",
+                                    "full-name": "",
+                                    "name": "B\u1ea3o v\u1ec7 \u0111\u1ed9ng v\u1eadt nu\u00f4i"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "40206",
+                                    "full-name": "",
+                                    "name": "Sinh tr\u01b0\u1edfng v\u00e0 ph\u00e1t tri\u1ec3n c\u1ee7a \u0111\u1ed9ng v\u1eadt nu\u00f4i"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40299",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc c\u00f4ng ngh\u1ec7 ch\u0103n nu\u00f4i kh\u00e1c"
+                                }
+                            },
+                            "name": "Ch\u0103n nu\u00f4i",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "403",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40301",
+                                    "full-name": "",
+                                    "name": "Y h\u1ecdc th\u00fa y"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40302",
+                                    "full-name": "",
+                                    "name": "G\u00e2y m\u00ea v\u00e0 \u0111i\u1ec1u tr\u1ecb t\u00edch c\u1ef1c th\u00fa y"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40303",
+                                    "full-name": "",
+                                    "name": "D\u1ecbch t\u1ec5 h\u1ecdc th\u00fa y"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40304",
+                                    "full-name": "",
+                                    "name": "Mi\u1ec5n d\u1ecbch h\u1ecdc th\u00fa y "
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40305",
+                                    "full-name": "",
+                                    "name": "Gi\u1ea3i ph\u1eabu h\u1ecdc v\u00e0 sinh l\u00fd h\u1ecdc th\u00fa y"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "40306",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh h\u1ecdc th\u00fa y"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "40307",
+                                    "full-name": "Tr\u1eeb vi r\u00fat h\u1ecdc th\u00fa y x\u1ebfp v\u00e0o 40311",
+                                    "name": "Vi sinh v\u1eadt h\u1ecdc th\u00fa y"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "40308",
+                                    "full-name": "",
+                                    "name": "K\u00fd sinh tr\u00f9ng h\u1ecdc th\u00fa y"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "40309",
+                                    "full-name": "",
+                                    "name": "Sinh h\u1ecdc ph\u00f3ng x\u1ea1 v\u00e0 ch\u1ee5p \u1ea3nh"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "40310",
+                                    "full-name": "",
+                                    "name": "Vi r\u00fat h\u1ecdc th\u00fa y"
+                                },
+                                "11": {
+                                    "code": "11",
+                                    "full-code": "40311",
+                                    "full-name": "",
+                                    "name": "Ph\u1eabu thu\u1eadt th\u00fa y"
+                                },
+                                "12": {
+                                    "code": "12",
+                                    "full-code": "40312",
+                                    "full-name": "",
+                                    "name": "D\u01b0\u1ee3c h\u1ecdc th\u00fa \u00fd"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40399",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc c\u00f4ng ngh\u1ec7 th\u00fa y kh\u00e1c"
+                                }
+                            },
+                            "name": "Th\u00fa y",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "404",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40401",
+                                    "full-name": "",
+                                    "name": "L\u00e2m sinh"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40402",
+                                    "full-name": "",
+                                    "name": "T\u00e0i nguy\u00ean r\u1eebng"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40403",
+                                    "full-name": "",
+                                    "name": "Qu\u1ea3n l\u00fd v\u00e0 b\u1ea3o v\u1ec7 r\u1eebng"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40404",
+                                    "full-name": "",
+                                    "name": "Sinh th\u00e1i v\u00e0 m\u00f4i tr\u01b0\u1eddng r\u1eebng"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40405",
+                                    "full-name": "",
+                                    "name": "Gi\u1ed1ng c\u00e2y r\u1eebng"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "40406",
+                                    "full-name": "",
+                                    "name": "N\u00f4ng l\u00e2m k\u1ebft h\u1ee3p"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "40407",
+                                    "full-name": "",
+                                    "name": "B\u1ea3o qu\u1ea3n v\u00e0 ch\u1ebf bi\u1ebfn l\u00e2m s\u1ea3n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40499",
+                                    "full-name": "C\u01a1 kh\u00ed l\u00e2m nghi\u1ec7p x\u1ebfp v\u00e0o 20305",
+                                    "name": "Khoa h\u1ecdc c\u00f4ng ngh\u1ec7 l\u00e2m nghi\u1ec7p kh\u00e1c"
+                                }
+                            },
+                            "name": "L\u00e2m nghi\u1ec7p",
+                            "note": ""
+                        },
+                        "05": {
+                            "code": "05",
+                            "full-code": "405",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40501",
+                                    "full-name": "",
+                                    "name": "Sinh l\u00fd v\u00e0 dinh d\u01b0\u1ee1ng thu\u1ef7 s\u1ea3n "
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40502",
+                                    "full-name": "",
+                                    "name": "Di truy\u1ec1n h\u1ecdc v\u00e0 nh\u00e2n gi\u1ed1ng thu\u1ef7 s\u1ea3n "
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40503",
+                                    "full-name": "",
+                                    "name": "B\u1ec7nh h\u1ecdc thu\u1ef7 s\u1ea3n "
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40504",
+                                    "full-name": "",
+                                    "name": "Nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40505",
+                                    "full-name": "",
+                                    "name": "H\u1ec7 sinh th\u00e1i v\u00e0 \u0111\u00e1nh gi\u00e1 ngu\u1ed3n l\u1ee3i thu\u1ef7 s\u1ea3n"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "40506",
+                                    "full-name": "",
+                                    "name": "Qu\u1ea3n l\u00fd v\u00e0 khai th\u00e1c thu\u1ef7 s\u1ea3n"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "40507",
+                                    "full-name": "",
+                                    "name": "B\u1ea3o qu\u1ea3n v\u00e0 ch\u1ebf bi\u1ebfn thu\u1ef7 s\u1ea3n"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40599",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc c\u00f4ng ngh\u1ec7 thu\u1ef7 s\u1ea3n kh\u00e1c"
+                                }
+                            },
+                            "name": "Thu\u1ef7 s\u1ea3n",
+                            "note": ""
+                        },
+                        "06": {
+                            "code": "06",
+                            "full-code": "406",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "40601",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 gen (c\u00e2y tr\u1ed3ng v\u00e0 \u0111\u1ed9ng v\u1eadt nu\u00f4i); nh\u00e2n d\u00f2ng v\u1eadt nu\u00f4i; "
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "40602",
+                                    "full-name": "",
+                                    "name": "C\u00e1c c\u00f4ng ngh\u1ec7 t\u1ebf b\u00e0o trong n\u00f4ng nghi\u1ec7p"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "40603",
+                                    "full-name": "",
+                                    "name": "C\u00e1c c\u00f4ng ngh\u1ec7 enzym v\u00e0 protein trong n\u00f4ng nghi\u1ec7p"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "40604",
+                                    "full-name": "",
+                                    "name": "C\u00e1c c\u00f4ng ngh\u1ec7 vi sinh v\u1eadt trong n\u00f4ng nghi\u1ec7p"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "40605",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ea1o \u0111\u1ee9c h\u1ecdc trong c\u00f4ng ngh\u1ec7 sinh h\u1ecdc n\u00f4ng nghi\u1ec7p"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "40699",
+                                    "full-name": "",
+                                    "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc trong n\u00f4ng nghi\u1ec7p kh\u00e1c"
+                                }
+                            },
+                            "name": "C\u00f4ng ngh\u1ec7 sinh h\u1ecdc n\u00f4ng nghi\u1ec7p",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "499",
+                            "level3": {},
+                            "name": "Khoa h\u1ecdc n\u00f4ng nghi\u1ec7p kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc n\u00f4ng nghi\u1ec7p",
+                    "note": "Nh\u1eefng v\u1ea5n \u0111\u1ec1 thu\u1ef7 l\u1ee3i x\u1ebfp v\u00e0o m\u1ee5c t\u01b0\u01a1ng \u1ee9ng. Thu\u1ef7 v\u0103n v\u00e0 t\u00e0i nguy\u00ean n\u01b0\u1edbc x\u1ebfp v\u00e0o 10513 (Thu\u1ef7 v\u0103n v\u00e0 t\u00e0i nguy\u00ean n\u01b0\u1edbc);  X\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh thu\u1ef7 l\u1ee3i x\u1ebfp v\u00e0o 20105 (K\u1ef9 thu\u1eadt thu\u1ef7 l\u1ee3i); C\u01a1 kh\u00ed thu\u1ef7 l\u1ee3i x\u1ebfp v\u00e0o 20306 (K\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 c\u01a1 kh\u00ed thu\u1ef7 l\u1ee3i); K\u1ef9 thu\u1eadt b\u1edd bi\u1ec3n x\u1ebfp v\u00e0o 20708 (K\u1ef9 thu\u1eadt b\u1edd bi\u1ec3n);"
+                },
+                "5": {
+                    "code": "5",
+                    "full-code": "5",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "501",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50101",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 nghi\u00ean c\u1ee9u quan h\u1ec7 ngu\u1eddi - m\u00e1y",
+                                    "name": "T\u00e2m l\u00fd h\u1ecdc n\u00f3i chung"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50102",
+                                    "full-name": "Bao g\u1ed3m c\u1ea3 li\u1ec7u ph\u00e1p \u0111i\u1ec1u tr\u1ecb r\u1ed1i lo\u1ea1n t\u00e2m sinh l\u00fd v\u00e0 tinh th\u1ea7n trong h\u1ecdc t\u1eadp, ng\u00f4n ng\u1eef, nghe, nh\u00ecn, n\u00f3i\u2026",
+                                    "name": "T\u00e2m l\u00fd h\u1ecdc chuy\u00ean ng\u00e0nh"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50199",
+                                    "full-name": "",
+                                    "name": "T\u00e2m l\u00fd h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "T\u00e2m l\u00fd h\u1ecdc",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "502",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50201",
+                                    "full-name": "",
+                                    "name": "Kinh t\u1ebf h\u1ecdc; Tr\u1eafc l\u01b0\u1ee3ng kinh t\u1ebf h\u1ecdc; Quan h\u1ec7 s\u1ea3n xu\u1ea5t kinh doanh"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50202",
+                                    "full-name": "",
+                                    "name": "Kinh doanh v\u00e0 qu\u1ea3n l\u00fd"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50299",
+                                    "full-name": "",
+                                    "name": "Kinh t\u1ebf h\u1ecdc v\u00e0 kinh doanh kh\u00e1c"
+                                }
+                            },
+                            "name": "Kinh t\u1ebf v\u00e0 kinh doanh",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "503",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50301",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc gi\u00e1o d\u1ee5c h\u1ecdc n\u00f3i chung, bao g\u1ed3m c\u1ea3 \u0111\u00e0o t\u1ea1o, s\u01b0 ph\u1ea1m h\u1ecdc, l\u00fd lu\u1eadn gi\u00e1o d\u1ee5c,.."
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50302",
+                                    "full-name": "Theo \u0111\u1ed1i t\u01b0\u1ee3ng, cho ng\u01b0\u1eddi khuy\u1ebft t\u1eadt,\u2026",
+                                    "name": "Gi\u00e1o d\u1ee5c chuy\u00ean bi\u1ec7t"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50399",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec1 khoa h\u1ecdc gi\u00e1o d\u1ee5c kh\u00e1c"
+                                }
+                            },
+                            "name": "Khoa h\u1ecdc gi\u00e1o d\u1ee5c",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "504",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50401",
+                                    "full-name": "",
+                                    "name": "X\u00e3 h\u1ed9i h\u1ecdc n\u00f3i chung"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50402",
+                                    "full-name": "",
+                                    "name": "Nh\u00e2n kh\u1ea9u h\u1ecdc "
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "50403",
+                                    "full-name": "",
+                                    "name": "Nh\u00e2n ch\u1ee7ng h\u1ecdc"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "50404",
+                                    "full-name": "",
+                                    "name": "D\u00e2n t\u1ed9c h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "50405",
+                                    "full-name": "",
+                                    "name": "X\u00e3 h\u1ed9i h\u1ecdc chuy\u00ean \u0111\u1ec1; Khoa h\u1ecdc v\u1ec1 gi\u1edbi v\u00e0 ph\u1ee5 n\u1eef; C\u00e1c v\u1ea5n \u0111\u1ec1 x\u00e3 h\u1ed9i Nghi\u00ean c\u1ee9u gia \u0111\u00ecnh v\u00e0 x\u00e3 h\u1ed9i; C\u00f4ng t\u00e1c x\u00e3 h\u1ed9i"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50499",
+                                    "full-name": "",
+                                    "name": "X\u00e3 h\u1ed9i h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "X\u00e3 h\u1ed9i h\u1ecdc",
+                            "note": ""
+                        },
+                        "05": {
+                            "code": "05",
+                            "full-code": "505",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50501",
+                                    "full-name": "",
+                                    "name": "Lu\u1eadt h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50502",
+                                    "full-name": "",
+                                    "name": "T\u1ed9i ph\u1ea1m h\u1ecdc"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "50503",
+                                    "full-name": "Khoa h\u1ecdc v\u1ec1 h\u00ecnh ph\u1ea1t",
+                                    "name": "H\u00ecnh ph\u1ea1t h\u1ecdc"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50599",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec3 ph\u00e1p lu\u1eadt kh\u00e1c"
+                                }
+                            },
+                            "name": "Ph\u00e1p lu\u1eadt",
+                            "note": ""
+                        },
+                        "06": {
+                            "code": "06",
+                            "full-code": "506",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50601",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc ch\u00ednh tr\u1ecb"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50602",
+                                    "full-name": "",
+                                    "name": "H\u00e0nh ch\u00ednh c\u00f4ng v\u00e0 qu\u1ea3n l\u00fd h\u00e0nh ch\u00ednh"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "50603",
+                                    "full-name": "",
+                                    "name": "L\u00fd thuy\u1ebft t\u1ed5 ch\u1ee9c; H\u1ec7 th\u1ed1ng ch\u00ednh tr\u1ecb; \u0110\u1ea3ng ch\u00ednh tr\u1ecb"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50699",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc ch\u00ednh tr\u1ecb kh\u00e1c"
+                                }
+                            },
+                            "name": "Khoa h\u1ecdc ch\u00ednh tr\u1ecb",
+                            "note": ""
+                        },
+                        "07": {
+                            "code": "07",
+                            "full-code": "507",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50701",
+                                    "full-name": "Nh\u1eefng kh\u00eda c\u1ea1nh \u0111\u1ecba l\u00fd t\u1ef1 nhi\u00ean x\u1ebfp v\u00e0o m\u1ee5c 105 (C\u00e1c khoa h\u1ecdc tr\u00e1i \u0111\u1ea5t v\u00e0 m\u00f4i tr\u01b0\u1eddng li\u00ean quan), kh\u00eda c\u1ea1nh c\u00f4ng ngh\u1ec7 c\u1ee7a \u0111\u1ecba l\u00fd x\u1ebfp v\u00e0o m\u1ee5c 207 (K\u1ef9 thu\u1eadt m\u00f4i tr\u01b0\u1eddng )",
+                                    "name": "Khoa h\u1ecdc m\u00f4i tr\u01b0\u1eddng - c\u00e1c kh\u00eda c\u1ea1nh x\u00e3 h\u1ed9i"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50702",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba l\u00fd kinh t\u1ebf v\u00e0 v\u0103n ho\u00e1"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "50703",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u quy ho\u1ea1ch, ph\u00e1t tri\u1ec3n \u0111\u00f4 th\u1ecb"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "50704",
+                                    "full-name": "V\u1ea5n \u0111\u1ec1 k\u1ef9 thu\u1eadt v\u00e0 c\u00f4ng ngh\u1ec7 giao th\u00f4ng v\u1eadn t\u1ea3i x\u1ebfp v\u00e0o m\u1ee5c 20104 (K\u1ef9 thu\u1eadt giao th\u00f4ng v\u1eadn t\u1ea3i)",
+                                    "name": "Quy ho\u1ea1ch giao th\u00f4ng v\u00e0 c\u00e1c kh\u00eda c\u1ea1nh x\u00e3 h\u1ed9i c\u1ee7a giao th\u00f4ng v\u1eadn t\u1ea3i"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50799",
+                                    "full-name": "",
+                                    "name": "\u0110\u1ecba l\u00fd kinh t\u1ebf v\u00e0 x\u00e3 h\u1ed9i kh\u00e1c"
+                                }
+                            },
+                            "name": "\u0110\u1ecba l\u00fd kinh t\u1ebf v\u00e0 x\u00e3 h\u1ed9i",
+                            "note": ""
+                        },
+                        "08": {
+                            "code": "08",
+                            "full-code": "508",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "50801",
+                                    "full-name": "",
+                                    "name": "B\u00e1o ch\u00ed"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "50802",
+                                    "full-name": "Kh\u00eda c\u1ea1nh v\u1ec1 tin h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 th\u00f4ng tin x\u1ebfp v\u00e0o m\u1ee5c 10202 (Khoa h\u1ecdc th\u00f4ng tin )",
+                                    "name": "Th\u00f4ng tin h\u1ecdc (Khoa h\u1ecdc th\u00f4ng tin - c\u00e1c kh\u00eda c\u1ea1nh x\u00e3 h\u1ed9i)"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "50803",
+                                    "full-name": "",
+                                    "name": "Khoa h\u1ecdc th\u01b0 vi\u1ec7n"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "50804",
+                                    "full-name": "",
+                                    "name": "Th\u00f4ng tin \u0111\u1ea1i ch\u00fang v\u00e0 truy\u1ec1n th\u00f4ng v\u0103n ho\u00e1 - x\u00e3 h\u1ed9i"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "50899",
+                                    "full-name": "",
+                                    "name": "Th\u00f4ng tin \u0111\u1ea1i ch\u00fang v\u00e0 truy\u1ec1n th\u00f4ng  kh\u00e1c"
+                                }
+                            },
+                            "name": "Th\u00f4ng tin \u0111\u1ea1i ch\u00fang v\u00e0 truy\u1ec1n th\u00f4ng ",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "599",
+                            "level3": {},
+                            "name": "Khoa h\u1ecdc x\u00e3 h\u1ed9i kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc x\u00e3 h\u1ed9i",
+                    "note": ""
+                },
+                "6": {
+                    "code": "6",
+                    "full-code": "6",
+                    "level2": {
+                        "01": {
+                            "code": "01",
+                            "full-code": "601",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "60101",
+                                    "full-name": "",
+                                    "name": "L\u1ecbch s\u1eed Vi\u1ec7t Nam"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "60102",
+                                    "full-name": "",
+                                    "name": "L\u1ecbch s\u1eed th\u1ebf gi\u1edbi; L\u1ecbch s\u1eed t\u1eebng n\u01b0\u1edbc, t\u1eebng v\u00f9ng; t\u1eebng khu v\u1ef1c"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "60103",
+                                    "full-name": "",
+                                    "name": "Kh\u1ea3o c\u1ed5 h\u1ecdc v\u00e0 ti\u1ec1n s\u1eed"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "60199",
+                                    "full-name": "L\u1ecbch s\u1eed khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7 x\u1ebfp v\u00e0o 603(Tri\u1ebft h\u1ecdc, \u0111\u1ea1o \u0111\u1ee9c h\u1ecdc v\u00e0 t\u00f4n gi\u00e1o); L\u1ecbch s\u1eed c\u1ee7a c\u00e1c khoa h\u1ecdc chuy\u00ean ng\u00e0nh \u0111\u01b0\u1ee3c x\u1ebfp v\u00e0o chuy\u00ean ng\u00e0nh t\u01b0\u01a1ng \u1ee9ng",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec1 l\u1ecbch s\u1eed v\u00e0 kh\u1ea3o c\u1ed5 h\u1ecdc kh\u00e1c"
+                                }
+                            },
+                            "name": "L\u1ecbch s\u1eed v\u00e0 kh\u1ea3o c\u1ed5 h\u1ecdc",
+                            "note": ""
+                        },
+                        "02": {
+                            "code": "02",
+                            "full-code": "602",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "60201",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u chung v\u1ec1 ng\u00f4n ng\u1eef "
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "60202",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u ng\u00f4n ng\u1eef Vi\u1ec7t Nam"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "60203",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u ng\u00f4n ng\u1eef kh\u00e1c"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "60204",
+                                    "full-name": "",
+                                    "name": "L\u00fd lu\u1eadn v\u0103n h\u1ecdc; Nghi\u00ean c\u1ee9u v\u0103n h\u1ecdc n\u00f3i chung"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "60205",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u v\u0103n h\u1ecdc Vi\u1ec7t Nam, v\u0103n h\u1ecdc c\u00e1c d\u00e2n t\u1ed9c \u00edt ng\u01b0\u1eddi c\u1ee7a Vi\u1ec7t Nam"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "60206",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u v\u0103n h\u1ecdc t\u1eebng d\u00e2n t\u1ed9c, t\u1eebng n\u01b0\u1edbc, khu v\u1ef1c kh\u00e1c"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "60207",
+                                    "full-name": "",
+                                    "name": "L\u00fd lu\u1eadn v\u0103n ho\u00e1; Nghi\u00ean c\u1ee9u v\u0103n ho\u00e1 n\u00f3i chung"
+                                },
+                                "08": {
+                                    "code": "08",
+                                    "full-code": "60208",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u v\u0103n h\u00f3a Vi\u1ec7t Nam, v\u0103n ho\u00e1 c\u00e1c d\u00e2n t\u1ed9c \u00edt ng\u01b0\u1eddi Vi\u1ec7t Nam"
+                                },
+                                "09": {
+                                    "code": "09",
+                                    "full-code": "60209",
+                                    "full-name": "",
+                                    "name": "C\u00e1c nghi\u00ean c\u1ee9u v\u0103n h\u00f3a t\u1eebng d\u00e2n t\u1ed9c, t\u1eebng n\u01b0\u1edbc, khu v\u1ef1c kh\u00e1c"
+                                },
+                                "10": {
+                                    "code": "10",
+                                    "full-code": "60210",
+                                    "full-name": "",
+                                    "name": "Ng\u00f4n ng\u1eef h\u1ecdc \u1ee9ng d\u1ee5ng"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "60299",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u ng\u00f4n ng\u1eef v\u00e0 v\u0103n h\u00f3a kh\u00e1c"
+                                }
+                            },
+                            "name": "Ng\u00f4n ng\u1eef h\u1ecdc v\u00e0 v\u0103n h\u1ecdc",
+                            "note": ""
+                        },
+                        "03": {
+                            "code": "03",
+                            "full-code": "603",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "60301",
+                                    "full-name": "",
+                                    "name": "Tri\u1ebft h\u1ecdc"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "60302",
+                                    "full-name": "",
+                                    "name": "L\u1ecbch s\u1eed v\u00e0 tri\u1ebft h\u1ecdc c\u1ee7a khoa h\u1ecdc v\u00e0 c\u00f4ng ngh\u1ec7"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "60303",
+                                    "full-name": "Tr\u1eeb c\u00e1c v\u1ea5n \u0111\u1ec1 \u0111\u1ea1o \u0111\u1ee9c h\u1ecdc li\u00ean quan \u0111\u1ebfn t\u1eebng ng\u00e0nh c\u1ee5 th\u1ec3",
+                                    "name": "\u0110\u1ea1o \u0111\u1ee9c h\u1ecdc"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "60304",
+                                    "full-name": "",
+                                    "name": "Th\u1ea7n h\u1ecdc"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "60305",
+                                    "full-name": "",
+                                    "name": "Nghi\u00ean c\u1ee9u t\u00f4n gi\u00e1o"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "60399",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec1 c\u1ee7a tri\u1ebft h\u1ecdc v\u00e0 t\u00f4n gi\u00e1o kh\u00e1c"
+                                }
+                            },
+                            "name": "Tri\u1ebft h\u1ecdc,  \u0111\u1ea1o \u0111\u1ee9c h\u1ecdc v\u00e0 t\u00f4n gi\u00e1o",
+                            "note": ""
+                        },
+                        "04": {
+                            "code": "04",
+                            "full-code": "604",
+                            "level3": {
+                                "01": {
+                                    "code": "01",
+                                    "full-code": "60401",
+                                    "full-name": "",
+                                    "name": "Ngh\u1ec7 thu\u1eadt v\u00e0 l\u1ecbch s\u1eed ngh\u1ec7 thu\u1eadt"
+                                },
+                                "02": {
+                                    "code": "02",
+                                    "full-code": "60402",
+                                    "full-name": "",
+                                    "name": "M\u1ef9 thu\u1eadt"
+                                },
+                                "03": {
+                                    "code": "03",
+                                    "full-code": "60403",
+                                    "full-name": "",
+                                    "name": "Ngh\u1ec7 thu\u1eadt ki\u1ebfn tr\u00fac"
+                                },
+                                "04": {
+                                    "code": "04",
+                                    "full-code": "60404",
+                                    "full-name": "\u00c2m nh\u1ea1c, k\u1ecbch, m\u00faa, h\u00e1t, xi\u1ebfc, \u2026",
+                                    "name": "Ngh\u1ec7 thu\u1eadt tr\u00ecnh di\u1ec5n"
+                                },
+                                "05": {
+                                    "code": "05",
+                                    "full-code": "60405",
+                                    "full-name": "",
+                                    "name": "Ngh\u1ec7 thu\u1eadt d\u00e2n gian"
+                                },
+                                "06": {
+                                    "code": "06",
+                                    "full-code": "60406",
+                                    "full-name": "",
+                                    "name": "Ngh\u1ec7 thu\u1eadt \u0111i\u1ec7n \u1ea3nh"
+                                },
+                                "07": {
+                                    "code": "07",
+                                    "full-code": "60407",
+                                    "full-name": "",
+                                    "name": "Ngh\u1ec7 thu\u1eadt truy\u1ec1n thanh, truy\u1ec1n h\u00ecnh"
+                                },
+                                "99": {
+                                    "code": "99",
+                                    "full-code": "60499",
+                                    "full-name": "",
+                                    "name": "C\u00e1c v\u1ea5n \u0111\u1ec1 nghi\u00ean c\u1ee9u ngh\u1ec7 thu\u1eadt kh\u00e1c"
+                                }
+                            },
+                            "name": "Ngh\u1ec7 thu\u1eadt",
+                            "note": ""
+                        },
+                        "99": {
+                            "code": "99",
+                            "full-code": "699",
+                            "level3": {},
+                            "name": "Khoa h\u1ecdc nh\u00e2n v\u0103n kh\u00e1c",
+                            "note": ""
+                        }
+                    },
+                    "name": "Khoa h\u1ecdc nh\u00e2n v\u0103n",
+                    "note": ""
+                }
+            },
+            "name-mapping": {
+                "level1": "L\u0129nh v\u1ef1c",
+                "level2": "Ng\u00e0nh",
+                "level3": "Chuy\u00ean ng\u00e0nh"
+            }
+        }
+    }
+}
