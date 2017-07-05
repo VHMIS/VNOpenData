@@ -106,6 +106,7 @@ for row in range(rowStart, rowEnd):
         
     data['vhdata']['research-fields']['level1'][currentLevel1Code]['level2'][currentLevel2Code]['level3'][level3Code] = {
         'name': name,
+        'note': note,
         'full-name': note,
         'code': level3Code,
         'full-code': fullCode
